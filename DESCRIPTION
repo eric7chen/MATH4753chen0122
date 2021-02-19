@@ -1,13 +1,13 @@
 Package: MATH4753chen0122
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Functions for MATH4753
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Eric Chen
+Maintainer: Eric Chen <eric.h.chen-1@ou.edu>
+Description: Assortment of functions used and taken from OU MATH4753
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/eric7chen/MATH4753chen0122
 BugReports: https://github.com/eric7chen/MATH4753chen0122/issues
+RoxygenNote: 7.1.1
