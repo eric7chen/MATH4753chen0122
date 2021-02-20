@@ -5,7 +5,7 @@
 \alias{MATH4753chen0122}
 \title{MATH4753 package}
 \description{
-Assortment of functions used and taken from OU MATH4753
+Assortment of functions used in and taken from OU MATH4753
 }
 \author{
 Eric Chen \email{eric.h.chen-1@ou.edu}

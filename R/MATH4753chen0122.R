@@ -1,6 +1,6 @@
 #' MATH4753 package
 #'
-#' Assortment of functions used and taken from OU MATH4753
+#' Assortment of functions used in and taken from OU MATH4753
 #'
 #' @docType package
 #'

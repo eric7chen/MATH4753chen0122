@@ -7,16 +7,19 @@
 myread(csv)
 }
 \arguments{
-\item{Path}{to CSV file}
+\item{csv}{Name of csv file}
 }
 \value{
 Dataframe type
 }
 \description{
 This function takes in a csv, reads through its contents,
-and creates a dataframe by seperating the terms by commas.
+and creates a dataframe by separating the terms by commas.
+If the file is not in the current directory, users will be prompted
+to locate and choose the file off their system.
 }
 \examples{
-mpg.df=myread("EPAGAS.csv")
+\dontrun{mpg.df=myread("EPAGAS.csv")}
+\dontrun{choose.df=myread("")}
 
 }
